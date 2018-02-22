@@ -1,2 +1,2 @@
 # Golang
-Golang practice
+A Collection of Golang Basics, Practice, Projects, Data Structures and Algorithms
