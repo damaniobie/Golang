@@ -13,7 +13,7 @@ func main() {
 	fmt.Println(arr)
 	
 	for i,j := 0,0;i<5;i, j = i+1,j+2{	//initialize two vars in a for loop
-		fmt.Println(i)	
+		fmt.Println(i,j)	
 	}
 
 	/*kvs := map[string]string{"a": "apple", "b": "banana"}
