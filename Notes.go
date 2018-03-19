@@ -24,6 +24,12 @@ use the names of the notes given above.)
 
 Challenge
 Write a function that takes the name of a major scale and the solfège name of a note, and returns the corresponding note in that scale.
+
+note("C", "Do") -> "C"
+note("C", "Re") -> "D"
+note("C", "Mi") -> "E"
+note("D", "Mi") -> "F#"
+note("A#", "Fa") -> "D#"
 */
 
 var solfege = map[string]int{"Do": 0, "Re": 2, "Mi": 4, "Fa": 5, "So": 7, "La": 9, "Ti": 11}
