@@ -1,2 +1,2 @@
 # Golang
-A Collection of Golang Basics, Practice, Projects, Data Structures and Algorithms
+A Collection of Golang Basics, Practice, Data Structures and Algorithms
